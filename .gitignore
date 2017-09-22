@@ -3,3 +3,4 @@ convert
 *.csv
 *.vcf
 *.plist
+*.DS_Store
